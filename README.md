@@ -1,2 +1,0 @@
-# fibonaccii
-fibonacci in java
